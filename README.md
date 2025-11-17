@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Yaasir Ramkelawon
 
-<!--
-**Myaasir-R/Myaasir-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer**  
+Learning **C, C++, Algorithms & Systems Programming**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech I'm Learning
+- C & C++  
+- Data structures & algorithms  
+- Low-level programming & memory  
+- Linux + command line  
+- Git & GitHub  
+
+---
+
+## 📘 Current Focus
+- Self-studying Complete Computer Science   
+- Building foundational projects:  
+  - Calculator  
+  - Sorting & graph algorithms  
+  - Memory allocators  
+  - System-level utilities  
+
+---
+
+## 🧠 Goals for 2025
+- Master C++  
+- Learn OS fundamentals and networking  
+- Build a capstone project 
+
+---
+
+## 🌱 What I’m Working On Right Now
+- Daily C/C++ exercises   
+- Practicing problem solving and debugging  
+
+---
+
+## 📫 Connect with Me
+- **GitHub:** this profile  
+- **LinkedIn:** www.linkedin.com/in/muhammad-yaasir-ramkelawon-43b1b839 
