@@ -16,8 +16,7 @@ Learning **C, C++, Algorithms & Systems Programming**
 
 ## 📘 Current Focus
 - Self-studying Complete Computer Science   
-- Building foundational projects:  
-  - Calculator  
+- Building foundational projects:   
   - Sorting & graph algorithms  
   - Memory allocators  
   - System-level utilities  
