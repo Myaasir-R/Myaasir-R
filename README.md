@@ -23,7 +23,7 @@ Learning **C, C++, Algorithms & Systems Programming**
 
 ---
 
-## 🧠 Goals for 2025
+## 🧠 Goals for 2026
 - Master C++  
 - Learn OS fundamentals and networking  
 - Build a capstone project 
